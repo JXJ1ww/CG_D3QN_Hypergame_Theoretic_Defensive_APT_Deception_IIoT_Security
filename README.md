@@ -17,7 +17,6 @@ python ML_training.py --max_depth 5 --criterion gini --dataset dataset.csv
 Modify the learning_rate pass parameter of the D3QN_Network class in the Foureye display.py file  
 - HG-CG-D3QN,TH-CG-D3QN:  
  python ML_D3QN_train_strat_sep.py --algo d3qn --strategy separated  
-# No mini-map environment (Figs. 1, 2, 3)
 
 
 
