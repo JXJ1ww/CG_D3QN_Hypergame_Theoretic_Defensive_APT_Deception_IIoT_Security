@@ -8,7 +8,7 @@ TensorFlow 1.x
 # Environment  
 Comparative metrics： Mean Time Between Failures,False Alarm Rate, Detection Rate
 # One defender versus multiple APT attackers(Figs. 5,6)  
-Comparison Algorithms : HG-CG-D3QN,TG-CG-D3QN，HG-ML,TG-ML  
+Comparison Algorithms : HG-CG-D3QN,TG-CG-D3QN,HG-ML,TG-ML  
 - HG-CG-D3QN,TH-CG-D3QN:   
 python ML_D3QN_train_strat_sep.py --algo d3qn --strategy separated  
 - HG-ML,TH-ML:  
