@@ -7,7 +7,7 @@ gym
 TensorFlow 1.x
 # Environment  
 Comparative metrics：Mean Time Between Failures, False Alarm Rate, Detection Rate
-# One defender versus multiple APT attackers(Figs. 5,6)  
+# One defender versus multiple APT attackers (Figs. 5 and 6)  
 Comparison Algorithms : HG-CG-D3QN, TG-CG-D3QN, HG-ML, TG-ML  
 - HG-CG-D3QN, TH-CG-D3QN:
   ```bash   
